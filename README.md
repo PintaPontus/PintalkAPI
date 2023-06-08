@@ -1,2 +1,2 @@
 # Pintalk
-Demo Spring Boot chatting application
+Demo Spring Boot chatting backend server
