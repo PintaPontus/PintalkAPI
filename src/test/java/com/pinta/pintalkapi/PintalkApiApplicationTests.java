@@ -1,10 +1,10 @@
-package com.pinta.pintalkchatapi;
+package com.pinta.pintalkapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PintalkChatApiApplicationTests {
+class PintalkApiApplicationTests {
 
     @Test
     void contextLoads() {

@@ -1,13 +1,13 @@
-package com.pinta.pintalkchatapi;
+package com.pinta.pintalkapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PintalkChatApiApplication {
+public class PintalkApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PintalkChatApiApplication.class, args);
+        SpringApplication.run(PintalkApiApplication.class, args);
     }
 
 }
